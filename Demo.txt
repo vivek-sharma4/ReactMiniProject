@@ -1,2 +1,2 @@
 Company Name = Neo Technology
-branch = Vizag
+branch = Hyd
